@@ -9,7 +9,7 @@ The flow of air in a series airway can be easily compared to that of an electric
 Resistance (R) = Resistance offered by airway (R) in Ns<sup>2</sup>m<sup>-8</sup> 
 Voltage drop (V) = Pressure drop (P) in Pa</p>
 
-Some specifications of a series circuit are -:
+## Some specifications of a series circuit are -:
  
 <ul style="text-indent:50px;text-align:justify;list-style-position: inside;">
 <li>The quantity of air flowing through each airway is same i.e Q = Q<sub>1</sub>=Q<sub>2</sub>=Q<sub>3</sub> (Please refer Fig 1) </li>
